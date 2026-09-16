@@ -50,12 +50,12 @@ My domain experience includes **healthcare, retail, hospitality, HR, finance, an
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SarangDev515&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarangDev515&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SarangDev515&theme=github_dark" alt="GitHub profile details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SarangDev515&theme=github_dark" height="180" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SarangDev515&theme=github_dark" height="180" alt="Repositories by language" />
 
 <img src="https://streak-stats.demolab.com?user=SarangDev515&theme=tokyonight&hide_border=true" alt="GitHub streak statistics" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarangDev515&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
