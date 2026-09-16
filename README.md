@@ -46,6 +46,19 @@ My domain experience includes **healthcare, retail, hospitality, HR, finance, an
 | Tools | Git, GitHub, PyCharm, VS Code, Linux, Windows |
 | Practices | Modular design, workflow automation, debugging, documentation, testing |
 
+## GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SarangDev515&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarangDev515&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=SarangDev515&theme=tokyonight&hide_border=true" alt="GitHub streak statistics" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SarangDev515&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
+
+</div>
+
 ## Featured Work
 
 ### WatchTogether
