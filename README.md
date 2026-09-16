@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/github-animated-avatar.gif" width="180" alt="Animated developer avatar" />
+
 # Hi, I'm Sarang T
 
 ### Python / Odoo Developer · ERP Specialist · API Integrator
