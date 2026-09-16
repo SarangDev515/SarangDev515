@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="./assets/github-animated-avatar.gif" width="180" alt="Animated developer avatar" />
-
 # Hi, I'm Sarang T
 
-### Python / Odoo Developer · ERP Specialist · API Integrator
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Python+%2F+Odoo+Developer;ERP+Specialist;Django+%26+API+Integrator;Building+practical+business+software" alt="Typing headline" />
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)](https://www.odoo.com/)
