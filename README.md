@@ -69,6 +69,12 @@ Healthcare, laboratory, pharmacy, HCM, cooperative society, retail POS, hotel bo
 
 Built and released a free [Odoo 19 multi-unit barcode resolver](https://github.com/SarangDev515/multi_unit_barcode_resolver/tree/odoo-19) for product packaging, inner boxes, master cartons, pallets, and stock receipt scanning. [Download the v19.0.1.0.0 release](https://github.com/SarangDev515/multi_unit_barcode_resolver/releases/tag/v19.0.1.0.0).
 
+### Odoo Addons
+
+- [Floating Chat Launcher 19](https://github.com/SarangDev515/chat_floating_launcher_19/releases/tag/v19.0.1.0.0) — Free Odoo 19 Discuss launcher with direct chat requests, Accept/Reject/Cancel workflows, and reason-based decisions. [Source](https://github.com/SarangDev515/chat_floating_launcher_19/tree/odoo-19)
+- [Floating Chat Launcher](https://github.com/SarangDev515/chat_floating_launcher/releases/tag/v19.0.1.0.0) — Odoo 19 launcher with direct chat requests and decision workflows; the repository also includes an Odoo 13 branch. [Source](https://github.com/SarangDev515/chat_floating_launcher/tree/odoo-19)
+- [Payment Due Login Popup](https://github.com/SarangDev515/payment_due_login_popup/releases/tag/v19.0.1.0.0) — Free Odoo 19 accounting reminder popup for due customer invoices and vendor bills. [Source](https://github.com/SarangDev515/payment_due_login_popup/tree/main)
+
 ### Automation Products
 Practical Telegram bots and browser-based tools for finance, student management, scheduling, leave and overtime calculations, milk calculations, and shop operations.
 
