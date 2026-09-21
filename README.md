@@ -65,6 +65,10 @@ A browser-based watch-party MVP with synchronized playback, WebSocket rooms, cha
 ### ERP and Business Systems
 Healthcare, laboratory, pharmacy, HCM, cooperative society, retail POS, hotel booking, parks management, and finance workflow solutions built with Odoo and Python.
 
+### Odoo 19 Multi-Unit Barcode Addon
+
+Built and released a free [Odoo 19 multi-unit barcode resolver](https://github.com/SarangDev515/multi_unit_barcode_resolver/tree/odoo-19) for product packaging, inner boxes, master cartons, pallets, and stock receipt scanning. [Download the v19.0.1.0.0 release](https://github.com/SarangDev515/multi_unit_barcode_resolver/releases/tag/v19.0.1.0.0).
+
 ### Automation Products
 Practical Telegram bots and browser-based tools for finance, student management, scheduling, leave and overtime calculations, milk calculations, and shop operations.
 
